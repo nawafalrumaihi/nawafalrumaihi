@@ -1,6 +1,6 @@
 ### Hi there, I'm Nawaf Alrumaihi 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawafalrumaihi&layout=compact)](https://github.com/nawafalrumaihi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawafalrumaihi&layout=compact&theme=transparent)](https://github.com/nawafalrumaihi/github-readme-stats)
 
 ![Nawaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawafalrumaihi&show_icons=true&theme=transparent)
 
